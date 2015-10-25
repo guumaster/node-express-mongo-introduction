@@ -1,12 +1,12 @@
 # Class 4
 
 ## Javascript
-  - call & apply [SLIDES 4.44]
+  - call & apply
   - ES6 features
   - babel
   
 ## DevTools 
-  - grunt, gulp, npm
+  - grunt, gulp, browserify, webpack
    
 ## Code validation
   - Encourage a coding style
@@ -14,7 +14,7 @@
   - ESLint
     - eslint-config-igz
 
-## MongoDb
+## MongoDb 
   - basic CRUD
   - Mongo Client
   - Mongoose

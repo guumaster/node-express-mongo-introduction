@@ -4,7 +4,6 @@
   - Map, Set, WeakMap, Symbol
   - Iterator, generator
   - async, await
-  - classes
   
 ## Node beyond
   - browserify, webpack
