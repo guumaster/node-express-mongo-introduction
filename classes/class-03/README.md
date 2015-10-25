@@ -2,24 +2,24 @@
 
 ## JavaScript 
   - strict mode
-  - Object creation [SLIDES 4.29-40]
+  - Object creation
   - Functional way
     - map, reduce, filter
     - lodash
   - Events
-  - Streams [SLIDES 2.7-9]
+  - Streams
   - File system
 
 ## Process management
   - supervisor, pm2, nodemon
 
 ## Express
-  - express [SLIDES 3.10-18]
+  - express
   - difference with restify
   - error handling
 
 ## Debugging 
-  - how to debugging [SLIDES 2.1-5]
+  - how to debugging
   - node-inspector
   
 ## Testing
