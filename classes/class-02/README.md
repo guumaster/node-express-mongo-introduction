@@ -6,13 +6,13 @@
     - String, RegExp
     - Array (and TypedArray)
     - String, Boolean
-  - Scope [SLIDES 3.13-17]
+  - Scope
     - global scope
     - function scope
   - Closures
-  - Hoisting [SLIDES 3.18-19]
+  - Hoisting
     - variables & functions
-  - array like [SLIDES 4.40-43]
+  - array like
 
 ## NPM packages
   - package.json
@@ -23,9 +23,9 @@
 ## Async Node
   - Stack, Queue & Event loop
     - http://latentflip.com/loupe/
-  - Callbacks [SLIDES 5.13-20]
+  - Callbacks
     - avoid callback hells (here)[http://callbackhell.com/]
-    - use async [SLIDES 5.1-12]
+    - use async
   - Promises
 
 ## Testing
