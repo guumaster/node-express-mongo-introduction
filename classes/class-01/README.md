@@ -1,22 +1,22 @@
 # Class 1
 
 ## Introduccion
-  - JS History [SLIDES 2.1 a 2.6]
-  - Node History [SLIDES 2.1-3]
+  - JS History 
+  - Node History
   
 ## Basic JS
   - Primitives
     - Strings, Numbers & Booleans 
-    - Null, Undefined
-  - Objects [SLIDES 4.1-5]
+    - Null, Undefined    
   - Array
-    - array literals [SLIDES 4.6-7]
-  - Primitives vs Object [SLIDES 4.8-9]
+    - array literals
+  - Objects 
+  - Primitives vs Object
   - Operators
     - all math
     - typeof, comparison, logical
     - short-circuit logical
-  - Type Cohersion [SLIDES 4.10-11]
+  - Type Cohersion
   - Functions 
     - normal, declaration, expression, arrow
     - higher order functions
@@ -26,8 +26,8 @@
 ## Node env
   - Basic program
     - mandatory "hello world!"
-    - http server
     - CLI example
+    - http server
   - Modules [SLIDES 2.10]
     - exports / require
 
